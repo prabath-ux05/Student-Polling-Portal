@@ -58,23 +58,7 @@ The system enables structured teaching feedback collection from students and pro
 
 A secure authentication interface with JWT-based login and role-based access.
 
-![Login Page](docs/SigninPage.png)
-
----
-
-### 📝 Registration Page
-
-User-friendly registration flow for students and faculty.
-
-![Registration Page](docs/screenshots/register.png)
-
----
-
-### 🏠 Dashboard Overview
-
-Central hub displaying user activity, statistics, and quick navigation.
-
-![Dashboard](docs/screenshots/register.png)
+![Login Page](docs/Signin-Page.png)
 
 ---
 
@@ -82,7 +66,7 @@ Central hub displaying user activity, statistics, and quick navigation.
 
 Faculty can manage feedback forms, view responses, and access analytics.
 
-![Faculty Dashboard](assets/screenshots/faculty-dashboard.png)
+![Faculty Dashboard](docs/Faculty-Dashboard.png)
 
 ---
 
@@ -90,7 +74,7 @@ Faculty can manage feedback forms, view responses, and access analytics.
 
 Students can view active polls and submit structured feedback.
 
-![Student Portal](docs/screenshots/student-feedback.png)
+![Student Portal](docs/Student-Dashboard.png)
 
 ---
 
@@ -98,7 +82,7 @@ Students can view active polls and submit structured feedback.
 
 Interactive charts and visualizations for feedback analysis.
 
-![Analytics Dashboard](docs/screenshots/analytics.png)
+![Analytics Dashboard](docs/Analytics-Page.png)
 
 ---
 
@@ -106,7 +90,7 @@ Interactive charts and visualizations for feedback analysis.
 
 Generate and download CSV and PDF reports.
 
-![Export System](docs/screenshots/export.png)
+![Export System](docs/Export-Page.png)
 
 ---
 
